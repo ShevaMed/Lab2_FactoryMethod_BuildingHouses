@@ -42,9 +42,18 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Companies.cs" />
-    <Compile Include="Houses.cs" />
+    <Compile Include="Companies\BaroqueCompany.cs" />
+    <Compile Include="Companies\ClassicCompany.cs" />
+    <Compile Include="Companies\Company.cs" />
+    <Compile Include="Companies\Hi_TechCompany.cs" />
+    <Compile Include="Companies\ModernCompany.cs" />
+    <Compile Include="Houses\BaroqueHouse.cs" />
+    <Compile Include="Houses\ClassicHouse.cs" />
+    <Compile Include="Houses\Hi_TechHouse.cs" />
+    <Compile Include="Houses\House.cs" />
+    <Compile Include="Houses\ModernHouse.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
+  <ItemGroup />
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>

@@ -1,0 +1,6 @@
+D:\My Files\Колледж\4 Курс\Конструювання програмного забезпечення\Lab2_FactoryMethod_BuildingHouses\ClassLibrary\bin\Debug\ClassLibrary.dll
+D:\My Files\Колледж\4 Курс\Конструювання програмного забезпечення\Lab2_FactoryMethod_BuildingHouses\ClassLibrary\bin\Debug\ClassLibrary.pdb
+D:\My Files\Колледж\4 Курс\Конструювання програмного забезпечення\Lab2_FactoryMethod_BuildingHouses\ClassLibrary\obj\Debug\FactoryHouseLib.csproj.AssemblyReference.cache
+D:\My Files\Колледж\4 Курс\Конструювання програмного забезпечення\Lab2_FactoryMethod_BuildingHouses\ClassLibrary\obj\Debug\FactoryHouseLib.csproj.CoreCompileInputs.cache
+D:\My Files\Колледж\4 Курс\Конструювання програмного забезпечення\Lab2_FactoryMethod_BuildingHouses\ClassLibrary\obj\Debug\ClassLibrary.dll
+D:\My Files\Колледж\4 Курс\Конструювання програмного забезпечення\Lab2_FactoryMethod_BuildingHouses\ClassLibrary\obj\Debug\ClassLibrary.pdb

@@ -80,9 +80,9 @@
     <None Include="App.config" />
   </ItemGroup>
   <ItemGroup>
-    <ProjectReference Include="..\ClassLibrary\ClassLibrary.csproj">
+    <ProjectReference Include="..\ClassLibrary\FactoryHouseLib.csproj">
       <Project>{cd9a2782-9ea2-453d-baa4-4cfdd6c53954}</Project>
-      <Name>ClassLibrary</Name>
+      <Name>FactoryHouseLib</Name>
     </ProjectReference>
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />

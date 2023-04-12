@@ -5,7 +5,7 @@ VisualStudioVersion = 17.3.32825.248
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lab2_FactoryMethod_BuildingHouses", "Lab2_FactoryMethod_BuildingHouses\Lab2_FactoryMethod_BuildingHouses.csproj", "{EB2DCB0D-4367-475E-BA8D-E12983398132}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ClassLibrary", "ClassLibrary\ClassLibrary.csproj", "{CD9A2782-9EA2-453D-BAA4-4CFDD6C53954}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FactoryHouseLib", "ClassLibrary\FactoryHouseLib.csproj", "{CD9A2782-9EA2-453D-BAA4-4CFDD6C53954}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
