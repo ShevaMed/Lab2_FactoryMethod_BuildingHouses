@@ -18,6 +18,7 @@ namespace Lab2_FactoryMethod_BuildingHouses
         public Form1()
         {
             InitializeComponent();
+            
         }
 
         private void BuildHouse(Company company, string filePictureHouse, int square, int cost, PictureBox picBox)
